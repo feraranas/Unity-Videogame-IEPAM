@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Obstacle1
+  - Obstacle2
+  - Obstacle3
+  - Obstacle4
+  - Obstacle5
+  - Obstacle6
+  - Obstacle7
+  - Obstacle8
+  - Obstacle9
+  - Obstacle10
+  - Obstacle11
+  - Obstacle12
+  - Obstacle13
+  - Obstacle14
+  - Obstacle15
+  - Obstacle16
+  - Obstacle17
+  - Obstacle18
+  - Obstacle19
+  - Obstacle20
+  - Obstacle21
+  - Obstacle22
+  - Obstacle23
+  - Obstacle24
+  - Obstacle25
+  - Obstacle26
+  - Obstacle27
+  - Obstacle28
+  - Obstacle29
+  - Obstacle30
+  - Obstacle31
+  - Obstacle32
+  - Obstacle33
+  - Obstacle34
+  - Obstacle35
+  - Obstacle36
+  - Obstacle37
+  - Obstacle38
+  - Obstacle39
+  - Obstacle40
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Environment
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
