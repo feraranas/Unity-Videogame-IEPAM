@@ -4,9 +4,7 @@ Videojuego elaborado para la institución IEPAM "Instituto Estatal Para Adultos 
 
 *** Elaborado con el editor de juegos Unity version 2021.3.10f1.
 
-<p align="center">
-    <video src='https://www.youtube.com/embed/LqJq5Io4gYk' width=180/>
-</p>
+<video src='https://www.youtube.com/embed/LqJq5Io4gYk' width=600/>
 
 <p align="center">
     <img width="800" src="menu.png" alt="Menu">
