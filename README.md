@@ -2,7 +2,7 @@
 
 Videojuego elaborado para la institución IEPAM "Instituto Estatal Para Adultos Mayores"
 
-*** Elaborado con el editor de juegos Unity version 2021.3.10f1.
+### Elaborado con el editor de juegos Unity version 2021.3.10f1.
 
 <p align="center">
     <img width="450" src="gif.gif" alt="gif">
