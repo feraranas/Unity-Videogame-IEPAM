@@ -5,15 +5,15 @@ Videojuego elaborado para la institución IEPAM "Instituto Estatal Para Adultos 
 *** Elaborado con el editor de juegos Unity version 2021.3.10f1.
 
 <p align="center">
-    <img width="200" src="gif.gif" alt="gif">
+    <img width="450" src="gif.gif" alt="gif">
 </p>
 
 <p align="center">
-    <img width="200" src="gif1.gif" alt="gif1">
+    <img width="450" src="gif1.gif" alt="gif1">
 </p>
 
 <p align="center">
-    <img width="200" src="gif2.gif" alt="gif2">
+    <img width="450" src="gif2.gif" alt="gif2">
 </p>
 
 
